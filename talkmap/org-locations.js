@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Rice University<br />Houston TX, USA",
+    "Rice University<br />Houston TX; USA",
     29.7168,
     -95.4036
   ],
